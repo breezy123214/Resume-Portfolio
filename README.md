@@ -5,7 +5,7 @@ breezy123214.github.io/Resume-Portfolio
 ## Education
 - Bachelor of Computer Engineering | ** Toronto Metropolitan University **
 ## Work Experience
-## Mission and Values
 ## Skill Set
 ## Projects
+## Extracurriculars
 ## Contact Information
