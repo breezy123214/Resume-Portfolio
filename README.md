@@ -1,17 +1,18 @@
 # Resume Portfolio
 breezy123214.github.io/Resume-Portfolio
-## Technical Skills: Python, SQL, Git/Version Control, Java, MATLAB, CSS, HTML, C++, Canva, Microsoft Office
+## Technical Skills: 
+#### Python, SQL, Git/Version Control, Java, MATLAB, CSS, HTML, C++, Canva, Microsoft Office
 
-## Education
+### Education
 **Bachelor of Computer Engineering | Toronto Metropolitan University**
   
-## Work Experience
+### Work Experience
 
-## Skill Set
+### Skill Set
 
-## Projects
+### Projects
 
-## Extracurriculars
+### Extracurriculars
 
-## ontact Information
+### COntact Information
 - 
